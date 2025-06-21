@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual Environment
+.venv/
+
+# SQLite DB
+*.db
+
+# Environment Files
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
