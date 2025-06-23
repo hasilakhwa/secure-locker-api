@@ -3,7 +3,7 @@ name = "secure-locker-api"
 version = "0.1.0"
 description = "A secure data locker API built with FastAPI"
 readme = "README.md"
-requires-python = ">=3.13.3"
+requires-python = ">=3.10"
 
 dependencies = [
     "fastapi",
