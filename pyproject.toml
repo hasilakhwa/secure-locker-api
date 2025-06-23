@@ -1,7 +1,7 @@
 [project]
 name = "secure-locker-api"
 version = "0.1.0"
-description = "Secure locker API with FastAPI, JWT, Encryption"
+description = "Secure locker API using FastAPI, JWT, and encryption"
 readme = "README.md"
 requires-python = ">=3.10"
 
@@ -15,3 +15,4 @@ dependencies = [
   "python-jose",
   "pydantic"
 ]
+
